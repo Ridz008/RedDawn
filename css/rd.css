@@ -1,0 +1,62 @@
+.rboxc{
+       float: left;
+        margin-right: 40px;
+        margin-left: 40px;
+        margin-top:20px;padding:35px;background:#fff; border :1px solid #DEEAEE;border-radius:10px;
+}
+.rcont{
+        padding-right: 15px;
+        padding-left:15px;
+        margin-top:30px;
+        box-align: center;
+}
+#author {margin-top:20px;margin-bottom: 40px; background:#fff; border :1px solid #DEEAEE;border-radius:10px;margin-left: 50px;margin-right: 50px;}
+#author .row {margin-top: 70px; margin-bottom:40px;}
+#author h3{color:rgb(228, 55, 25);margin-top:40px;}
+.floatprop{
+    float: left;
+}
+.book-block {margin-top:20px;padding:5px;background:#fff; border :1px solid #DEEAEE;border-radius:10px;}
+    .tag {display:inline;padding:2px 5px;background:#90e137;color:#fff;}
+.tag-side{display:inline;;}
+    *{
+        box-sizing: border-box;
+    }
+    
+.columnaf {
+float: left;
+width: 25%;
+padding: 40px;
+}
+.rowaf::after {
+    content: "";
+     clear: both;
+     display: table;
+}
+.rdfont{
+    color:black;
+}
+.vertical-menu {
+    margin-top: 25px;
+    width: 300px;
+    
+}
+
+.vertical-menu a {
+    background-color: #eee;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+}
+
+.vertical-menu a:hover {
+    background-color: #ccc;
+}
+
+.vertical-menu a.active {
+    background-color:#2E2E2E;
+    color: white;
+}
+
+  

@@ -1,0 +1,39 @@
+.a1{
+    background-color:rgba(32, 65, 5, 0.849);
+    position:fixed;
+    overflow: hidden;
+    opacity: 1;
+    color:white;
+}
+.a1 ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    
+}
+.a1 li{
+    float: left;
+    padding: 0%;
+    margin:0px;
+    
+}
+.a1 li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.a1 a{
+    color:white;
+}
+.a1 a:hover{
+    background-color:white;
+    color:black;
+}
+.a1 a:active{
+    background-color: rgb(223, 226, 45);
+    color:white;
+}
